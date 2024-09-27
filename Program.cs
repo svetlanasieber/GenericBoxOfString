@@ -1,4 +1,4 @@
-﻿namespace _01.GenericBoxОfString
+﻿namespace GenericBoxОfString
 {
     internal class Program
     {
